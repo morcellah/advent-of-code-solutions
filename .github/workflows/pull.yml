@@ -6,8 +6,8 @@ on:
     - cron: '0 4 2-13 12 *'
 
 env:
-  USERNAME: AlexAb123
-  SOURCE_REPO: advent-of-code
+  USERNAME: morcellah
+  SOURCE_REPO: Advent-of-code
 
 jobs:
   pull:
